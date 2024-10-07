@@ -3,7 +3,6 @@
 == Copyright (c) 2016 BootstrapThemes.co
 
 == http://BootstrapThemes.co
-thejwo[kw[pkwppkd[o
 
 
 Html Created by: http://bootstrapthemes.co
